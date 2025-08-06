@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+./utils/output_ai.txt
+.vscode/
+.DS_Store
+Thumbs.db

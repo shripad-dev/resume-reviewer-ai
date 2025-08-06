@@ -1,0 +1,41 @@
+This resume has a good foundation but needs several improvements to be more impactful. Here's a detailed review:
+
+**Strengths:**
+
+* **Clear and Concise:** The resume is easy to read and understand.
+* **Relevant Skills:** The skills listed are relevant for a software developer role.
+* **Projects Included:**  Including projects is excellent; it demonstrates practical application of skills.
+* **Experience Included:**  Even an internship is valuable experience to showcase.
+
+
+**Weaknesses and Areas for Improvement:**
+
+* **Contact Information:** The phone number is incomplete (+91-9876 is missing digits).  The LinkedIn and GitHub links should be checked to ensure they are correct and lead to active, professional profiles.
+* **Objective Statement:**  The objective is generic.  Instead of stating a desire for a "challenging position,"  quantify achievements and tailor it to the specific job description.  For example,  "To leverage my full-stack development skills in a dynamic environment to contribute to the development of [mention a specific type of application or system, if possible] and improve [mention a specific metric, e.g., user experience, efficiency]."
+* **Education:**  Specify the type of degree (B.Tech) and the university's location.  Adding GPA is optional and depends on the job and your GPA (8.2/10 is good, but consider removing it if it's below a 3.5/4.0 or if the job description doesn't mention GPA).
+* **Technical Skills:**  This section needs more detail and specificity.  Instead of just listing technologies, briefly mention proficiency levels (e.g., "Proficient in Python," "Experienced with React," "Familiar with Node.js").  Consider grouping skills logically (e.g., Frontend, Backend, Databases). Also, consider adding any relevant frameworks/libraries beyond just React and Node.js.
+* **Projects:**  Expand on the project descriptions.  Use the STAR method (Situation, Task, Action, Result) to showcase accomplishments. Quantify achievements whenever possible (e.g., "Improved user engagement by 15%," "Reduced development time by 10%").  For the Task Tracker app, mention technologies used for backend (e.g., Express.js). For the Weather Forecast CLI, mention the API used.
+* **Experience:**  The internship description is too brief. Use action verbs and quantify accomplishments. Instead of "Worked on React components," try "Developed and implemented 5 new React components for the dashboard redesign, resulting in a 20% improvement in user interface consistency."  Mention specific technologies used (e.g., testing framework).
+* **Certifications:**  Good to include. However, consider only including certifications relevant to the target job.
+* **Strengths:**  These are very generic.  Replace these with specific examples that demonstrate these strengths.  For example, instead of "Fast learner," say "Successfully learned and implemented React within one month during my internship."
+* **Languages:** This section is fine, but could be omitted unless it's relevant to the specific job.
+
+
+**Revised Resume Snippets (Examples):**
+
+**Objective (Example):** "To leverage my full-stack development skills and experience building responsive web applications to contribute to the development of innovative software solutions at [Company Name].  My proven ability to deliver high-quality, user-centric applications, as demonstrated in my work on the Task Tracker App, makes me a strong candidate for this role."
+
+
+**Projects (Example - Task Tracker App):**
+
+"**Task Tracker App** (Full-Stack): Developed a full-stack task management application using React, Node.js with Express.js, and MongoDB. Implemented user authentication, task creation, editing, deletion, and prioritization features.  Utilized Git for version control and collaborated with a team to deliver a functional and user-friendly application within a three-month timeframe."
+
+**Experience (Example):**
+
+"**Intern, ABC Technologies** (Jan 2022 – June 2022)
+* Developed and implemented five new React components for the dashboard redesign, resulting in a 20% improvement in user interface consistency.
+* Wrote and executed unit tests for UI components using Jest and React Testing Library, achieving 95% code coverage.
+* Collaborated with senior developers in an Agile environment using Jira for project management, contributing to the successful on-time delivery of two sprint goals."
+
+
+By making these improvements, Rohan's resume will be significantly stronger and more likely to get him noticed by potential employers. Remember to tailor the resume to each specific job application.

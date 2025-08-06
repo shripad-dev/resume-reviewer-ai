@@ -1,0 +1,49 @@
+Name: Rohan Sharma  
+Email: rohan.sharma@email.com  
+Phone: +91-9876 
+LinkedIn: linkedin.com/in/rohan-sharma  
+GitHub: github.com/rohan-sharma  
+
+Objective:  
+To obtain a challenging position as a Software Developer where I can apply my skills in full-stack development and contribute to team success.
+
+Education:  
+B.Tech in Computer Science, XYZ University (2018–2022)  
+CGPA: 8.2/10
+
+Technical Skills:  
+- Programming Languages: Python, JavaScript  
+- Web Development: HTML, CSS, React, Node.js  
+- Tools: Git, VS Code, Postman  
+- Databases: MySQL, MongoDB  
+
+Projects:  
+1. Task Tracker App  
+   - Built a full-stack task tracking app using React and Node.js  
+   - Implemented user login, task creation, editing, and deletion  
+   - MongoDB used for data persistence  
+
+2. Weather Forecast CLI  
+   - Developed a command-line Python tool that fetches weather data using an API  
+   - Parsed and displayed forecast with color-coded output  
+
+Experience:  
+Intern – ABC Technologies (Jan 2022 – June 2022)  
+- Worked on React components for dashboard redesign  
+- Wrote unit tests for UI components  
+- Collaborated with senior devs in Agile sprints
+
+Certifications:  
+- JavaScript Essentials – Coursera  
+- Responsive Web Design – freeCodeCamp
+
+---
+
+Strengths:  
+- Fast learner  
+- Team player  
+- Eager to explore new technologies
+
+Languages:  
+- English (Fluent), Hindi (Native)
+
